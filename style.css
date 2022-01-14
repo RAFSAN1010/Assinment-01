@@ -1,0 +1,75 @@
+body{
+  font-family: 'PT Serif', serif;
+  margin: 0;
+}
+h1{
+  font-size: 50px;
+}
+h2{
+  font-size: 40px;
+}
+h3{
+  font-size: 30px;
+  font-weight: 700;
+}
+.orange-color{
+  color: orange;
+}
+.section-one{ 
+  display: flex;
+}
+#my-mission{ 
+  text-align: center;
+}
+.half-width{
+  width: 40%;
+  padding: 5%;
+}
+.half-width img{
+  width: 50%;
+}
+.link-button{
+  text-decoration: none;
+  padding: 10px 40px;
+  background-image: linear-gradient(tomato, tomato);
+  border-radius: 10px;
+  color: white;
+  font-weight: 550;
+}
+#footer-one{
+  margin-top: 50px;
+}
+.second-section{
+  display: flex;
+  margin: 7%;
+  margin-top: 20px;
+}
+.second-section img{
+  width: 30%;
+}
+.frist-div{
+  padding : 2%;
+  border-radius: 10px;
+  width: 30%;
+  margin-right: 20px;
+}
+#frist-div-color{
+  background-color: lightcyan;
+}
+#second-div-color{
+  background-color: linen;
+}
+#third-div-color{
+  background-color: rgb(245, 184, 177) ;
+}
+.dream-big{
+  background-image: url(images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#last-foter{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 2px;
+}
